@@ -1,0 +1,10 @@
+{
+  "source": "wazuh",
+  "alert_type": "unauthorized_access",
+  "rule_id": "5710",
+  "severity": "high",
+  "timestamp": "YYYY-MM-DD HH:MM:SS",
+  "agent": "ubuntu-host",
+  "source_ip": "X.X.X.X",
+  "description": "Multiple failed authentication attempts detected"
+}
